@@ -10,3 +10,4 @@ Programs done in NNDL lab.
  | 6 | [Dropout layers in NN](https://github.com/shaun33016/NNDL_Lab/blob/main/6.%20Dropout%20layers%20in%20NN.ipynb) |
  | 7 | [Sentiment Analysis using ANN](https://github.com/shaun33016/NNDL_Lab/blob/main/7.%20Sentiment%20Analysis%20using%20ANN.ipynb) |
  | 8 | [Classification of Handwritten Digits using CNN](https://github.com/shaun33016/NNDL_Lab/blob/main/8.%20Classification%20of%20Handwritten%20Digits%20using%20CNN.ipynb) |
+ | 9 | [Data Augmentation](https://github.com/shaun33016/NNDL_Lab/blob/main/9.%20Data%20Augmentation.ipynb) |
