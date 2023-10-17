@@ -1,5 +1,5 @@
 # NNDL_Lab
-Programs done in NNDL lab.
+Programs done in Neural Networks and Deep Learning lab.
  | Sno. | Name | 
  |--------------- | ------------- |
  | 1 | [Breast Cancer Classification using ANN](https://github.com/shaun33016/NNDL_Lab/blob/main/1.%20Breast%20Cancer%20Classification%20using%20ANN.ipynb) |
