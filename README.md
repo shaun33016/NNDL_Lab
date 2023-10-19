@@ -11,4 +11,4 @@ Programs done in Neural Networks and Deep Learning lab.
  | 7 | [Sentiment Analysis using ANN](https://github.com/shaun33016/NNDL_Lab/blob/main/7.%20Sentiment%20Analysis%20using%20ANN.ipynb) |
  | 8 | [Classification of Handwritten Digits using CNN](https://github.com/shaun33016/NNDL_Lab/blob/main/8.%20Classification%20of%20Handwritten%20Digits%20using%20CNN.ipynb) |
  | 9 | [Data Augmentation](https://github.com/shaun33016/NNDL_Lab/blob/main/9.%20Data%20Augmentation.ipynb) |
- | 10 | [10. Transfer Learning using VGG16 and VGG19 Resnet](https://github.com/shaun33016/NNDL_Lab/blob/main/10.%20Transfer%20Learning%20using%20VGG16%20and%20VGG19%20Resnet.ipynb) |
+ | 10 | [Transfer Learning using VGG16 and VGG19 Resnet](https://github.com/shaun33016/NNDL_Lab/blob/main/10.%20Transfer%20Learning%20using%20VGG16%20and%20VGG19%20Resnet.ipynb) |
