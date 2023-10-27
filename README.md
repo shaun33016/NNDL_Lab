@@ -2,7 +2,7 @@
 Programs done in Neural Networks and Deep Learning lab.
  | Sno. | Name | 
  |--------------- | ------------- |
- | 01 | [Breast Cancer Classification using ANN](https://github.com/shaun33016/NNDL_Lab/blob/main/1.%20Breast%20Cancer%20Classification%20using%20ANN.ipynb) |
+ | 01 | [Breast Cancer Classification using ANN](https://github.com/shaun33016/NNDL_Lab/blob/main/01.%20Breast%20Cancer%20Classification%20using%20ANN.ipynb) |
  | 02 | [Churn model prediction using ANN](https://github.com/shaun33016/NNDL_Lab/blob/main/2.%20Churn%20model%20prediction%20using%20ANN.ipynb) |
  | 03 | [Keras Hyperparameter Tuning](https://github.com/shaun33016/NNDL_Lab/blob/main/3.%20Keras%20Hyperparameter%20Tuning.ipynb) |
  | 04 | [Handwritten classification using ANN](https://github.com/shaun33016/NNDL_Lab/blob/main/4.%20Handwritten%20classification%20using%20ANN.ipynb) |
